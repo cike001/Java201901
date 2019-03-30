@@ -23,6 +23,8 @@ public class Test {
 
 	public static void main(String[] args) throws Exception {
 		
+		System.out.println("=========================");
+		
 		System.out.println("5"+2);
 		
 		LinkedList list = new LinkedList();
