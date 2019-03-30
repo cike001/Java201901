@@ -16,6 +16,7 @@ public class TestRun implements Runnable{
 	public void run() {
 		// TODO Auto-generated method stub
 		System.out.println("running");
+		System.out.println("-------------------");
 	}
 
 	public static void main(String[] args) {
