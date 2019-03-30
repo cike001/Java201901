@@ -18,6 +18,7 @@ public class TestRun implements Runnable{
 		System.out.println("running");
 		System.out.println("-------------------");
 		System.out.println("=====================");
+		System.out.println("************************");
 	}
 
 	public static void main(String[] args) {
